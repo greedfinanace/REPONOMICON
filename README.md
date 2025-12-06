@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧙‍♂️ Reponomicon
 
 > *"That is not dead which can eternal lie, and with strange aeons even code may die."*
@@ -259,7 +258,3 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 **Demo Video:** [Coming Soon]  
 **Live App:** [Coming Soon]
-=======
-# REPONOMICON
-Necronomicon of Knowledge Discord app: Resurrect docs from GitHub repos! AST-parses Python/JS/TS code into RAG-powered LLM chat—query "explain auth" for cited snippets. Auto-regens via hooks, pins to IPFS eternally. Spooky rune UI. Devs: /ingest &lt;repo> → summon knowledge! 💀🔮 #KiroweenFrankenstein (214 chars)
->>>>>>> 1ce20eb5d27a8d578c3470794062e5956788967b
