@@ -255,6 +255,4 @@ MIT License - see [LICENSE](LICENSE) file for details
 ---
 
 *Built for Kiroween 2025 Hackathon 🎃*
-
-**Demo Video:** [Coming Soon]  
 **Live App:** [Coming Soon]
