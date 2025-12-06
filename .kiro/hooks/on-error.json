@@ -1,0 +1,9 @@
+{
+  "name": "Error Analysis",
+  "description": "Analyze and suggest fixes for runtime errors",
+  "trigger": "onFileSave",
+  "filePattern": "**/*.log",
+  "action": "sendMessage",
+  "message": "A log file was updated. Please analyze any errors and suggest fixes for the issues found.",
+  "enabled": true
+}

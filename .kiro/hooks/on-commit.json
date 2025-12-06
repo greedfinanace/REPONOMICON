@@ -1,0 +1,9 @@
+{
+  "name": "Pre-Commit Validation",
+  "description": "Validate code quality before commits",
+  "trigger": "onFileSave",
+  "filePattern": "**/*.{py,js,ts,tsx}",
+  "action": "sendMessage",
+  "message": "Please check this file for any linting issues, type errors, or code quality problems before the next commit.",
+  "enabled": true
+}

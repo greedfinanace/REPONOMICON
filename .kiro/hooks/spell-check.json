@@ -1,0 +1,9 @@
+{
+  "name": "Documentation Spell Check",
+  "description": "Check spelling and grammar in documentation files",
+  "trigger": "onFileSave",
+  "filePattern": "**/*.md",
+  "action": "sendMessage",
+  "message": "A markdown file was updated. Please review for spelling errors, grammar issues, and ensure documentation is clear and complete.",
+  "enabled": true
+}

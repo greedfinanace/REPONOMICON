@@ -1,0 +1,9 @@
+{
+  "name": "Code Quality Check",
+  "description": "Automatically check code quality when files are saved",
+  "trigger": "onFileSave",
+  "filePattern": "**/*.{ts,tsx,js,jsx}",
+  "action": "sendMessage",
+  "message": "A TypeScript/JavaScript file was saved. Please verify: 1) No TypeScript errors, 2) Proper error handling, 3) Consistent naming conventions, 4) No console.log statements in production code.",
+  "enabled": true
+}

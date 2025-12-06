@@ -1,0 +1,4 @@
+# file: C:\k\reponomicon\python_service\parser_core.py
+# hypothesis_version: 6.148.3
+
+['"\'', '.git', '.js', '.jsx', '.py', '.ts', '.tsx', '/', 'AnonymousClass', 'anonymous', 'arrow_function', 'class_count', 'class_declaration', 'class_definition', 'classes', 'comment', 'docstring', 'expression_statement', 'function_count', 'function_declaration', 'function_definition', 'functions', 'identifier', 'javascript', 'line_end', 'line_start', 'main', 'method_definition', 'name', 'python', 'r', 'repos', 'string', 'tsx', 'typescript', 'utf-8', 'utf8']

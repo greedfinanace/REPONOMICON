@@ -1,0 +1,9 @@
+{
+  "name": "Run Tests on Save",
+  "description": "Automatically run tests when test files are modified",
+  "trigger": "onFileSave",
+  "filePattern": "**/test_*.{py,ts,js}",
+  "action": "executeCommand",
+  "command": "pytest",
+  "enabled": true
+}

@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "groq": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-groq"],
+      "env": {
+        "GROQ_API_KEY": "${GROQ_API_KEY}"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "claude": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-anthropic"],
+      "env": {
+        "ANTHROPIC_API_KEY": "${ANTHROPIC_API_KEY}"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Security Vulnerability Scan",
+  "description": "Scan for security vulnerabilities in code changes",
+  "trigger": "onFileSave",
+  "filePattern": "**/*.{py,js,ts}",
+  "action": "sendMessage",
+  "message": "Please scan this file for potential security vulnerabilities including: SQL injection, XSS, path traversal, hardcoded secrets, and insecure dependencies.",
+  "enabled": true
+}
